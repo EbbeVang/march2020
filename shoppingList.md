@@ -5,6 +5,7 @@
 * potatoes
 * _bacon_
 * pizza
+* hotdogs
 
 ## Furniture
 * kitchen table
