@@ -3,7 +3,7 @@
 ## Groceries
 * milk
 * potatoes
-* bacon
+* _bacon_
 
 ## Furniture
 * kitchen table
