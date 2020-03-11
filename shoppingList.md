@@ -4,6 +4,7 @@
 * milk
 * potatoes
 * _bacon_
+* pizza
 
 ## Furniture
 * kitchen table
